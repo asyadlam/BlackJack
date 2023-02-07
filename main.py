@@ -1,4 +1,4 @@
-from JeudeCartes import JeudeCartes, Paquets            #all imports
+from JeudeCartes import JeudeCartes, Paquets           
 from Joueurs import Joueur1, Joueur2, Dealer
 from random import randint
 import time
